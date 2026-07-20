@@ -1,1 +1,13 @@
-Meu nome e Marcos Nascimento da Silva.
+==================================================
+              TRAJETÓRIA ACADÊMICA
+==================================================
+
+NOME: Marcos Nascimento da Silva
+IDADE: 34 anos
+
+--------------------------------------------------
+1. VIDA ACADÊMICA
+--------------------------------------------------
+• Curso: Análise e Desenvolvimento de Sistemas (ADS)
+• Situação: Em andamento
+• Foco de estudos: Desenvolvimento de software, lógica de programação e banco de dados.
