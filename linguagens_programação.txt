@@ -1,1 +1,13 @@
-linguagem de programação que tenho conhecimento.
+==================================================
+      LINGUAGENS DE PROGRAMAÇÃO E CONHECIMENTOS
+==================================================
+
+- CONHECIMENTO BACK-END
+• Conhecimento básico em C++
+• Conhecimento básico em Java
+
+--------------------------------------------------
+- CONHECIMENTO FRONT-END
+• Conhecimento básico em CSS
+• Conhecimento básico em HTML
+• Conhecimento básico em JavaScript
